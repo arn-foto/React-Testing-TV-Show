@@ -65,7 +65,7 @@ useEffect(() => {
     .then(res => {
       // set state with the data
     }
-}, []);
+, []);
 ```
 
 ### Stretch goals
